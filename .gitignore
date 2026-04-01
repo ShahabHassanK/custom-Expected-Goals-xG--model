@@ -1,0 +1,5 @@
+# Ignore all dataset CSV files by default
+data/*.csv
+
+# Keep only the final dataset tracked
+!data/XG_final_dataset.csv
