@@ -269,7 +269,3 @@ Planned next phase: **real-time xG system for live matches**.
 - As live provider schemas differ, a robust schema-mapping layer is essential before deployment.
 
 ---
-If you want, this README can be extended further with:
-- a dedicated "Model Card" section,
-- per-feature importance plots for XGB,
-- and API endpoint docs for the future live-scoring service.
