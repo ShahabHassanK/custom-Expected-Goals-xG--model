@@ -1,9 +1,17 @@
+# ---- Core Data Science ----
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
 xgboost
-statsbombpy
+
+# ---- Football Visualization ----
 mplsoccer
+
+# ---- Data Sources ----
+statsbombpy
+
+
+# ---- Development ----
 jupyter
